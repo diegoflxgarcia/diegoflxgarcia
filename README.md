@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Data Science, Machine Learning and development with Python. I study math in Unicamp too!
 - 👯 I'm looking to collaborate on Data Science and AI. My professional goal is working with this.
-- 📫 How to reach me: diegoflxg@gmail.com, [my LinkedIn](linkedin.com/in/diego-felix-garcia-a25b4a28a) or my discord: diego_fg
+- 📫 How to reach me: diegoflxg@gmail.com, [my LinkedIn](https://www.linkedin.com/in/diego-felix-garcia-a25b4a28a/) or my discord: diego_fg
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love mangas and vintage games from the 2000s
 
