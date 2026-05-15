@@ -1,11 +1,9 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Diego, "readme"!
 
-- 🌱 I’m currently learning Data Science, Machine Learning and development with Python.
+- 🌱 I’m currently learning Data Analysis/Science, Machine Learning and development with Python.
 - I'm looking to collaborate on Data Science and AI. My professional goal is to improve in this area.
 - 📫 How to reach me: diegoflxm@gmail.com, [my LinkedIn](https://www.linkedin.com/in/diego-felix-garcia-a25b4a28a/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love mangas and vintage games from the 2000s
 
 <div>
   <a href="https://github.com/diegoflxgarcia">
